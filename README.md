@@ -27,7 +27,7 @@ mkdir ~/jogo_da_velha && cd ~/jogo_da_velha
 curl -LO https://raw.githubusercontent.com/LucasGPM97/Atividade_Jogo_da_Velha_C/main/Jogo_da_Velha_Linux.c
 ```
 ---
-####3. ***Compile the Code***
+3. ***Compile the Code***
 
 > [!IMPORTANT]
 > Choose which alias you want to use to run the game: `jogo_da_velha` or `tic_tac_toe` .
